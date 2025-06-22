@@ -1,0 +1,1 @@
+// Core React App (будет вставлено позже, placeholder)

@@ -1,0 +1,1 @@
+// Модуль OpenRouter API (будет вставлено позже, placeholder)
